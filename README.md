@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulhan93
-- 👀 I’m interested in web-development & data structures
+- 👀 I’m interested in development & data science
 - 🌱 I’m currently learning computer science @ PSU
 - 💞️ I’m looking to collaborate on beginner projects to build resume
 - 📫 How to reach me ...
